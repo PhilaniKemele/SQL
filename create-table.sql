@@ -38,8 +38,8 @@ CREATE TABLE Characters (
 | id |      name      |         roles          | power_level |
 +----+----------------+------------------------+-------------+
 |  1 | Light Yagami   | Protagonist            |         100 |
-|  2 | L              | Detective              |          95 |
-|  3 | Ryuk           | Shinigami              |          90 |
+|  2 | L              | Detective              |          99 |
+|  3 | Ryuk           | Shinigami              |         100 |
 |  4 | Misa Amane     | Supporting             |          85 |
 |  5 | Near           | Detective              |          90 |
 |  6 | Mello          | Detective              |          88 |
