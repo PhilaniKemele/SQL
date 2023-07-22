@@ -88,5 +88,3 @@ DELETE FROM Characters WHERE name = 'Mello';
 +----+----------------+-------------+-------------+
 
 
-
-
